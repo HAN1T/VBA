@@ -54,4 +54,4 @@ This macro can be accurately mapped to incorporate Daily/ Weekly/ Quarterly and 
 
 If this macro is to run on windows system, "Task Scheduler" can be utilized to automatically update the input files at a precribed time from the source drive and also to automatically run this macro so monthly reconciliation can be calculated without any human intervention. 
 (Apple systems might also have something similar to task scheduler that can be utilized)
-
+ 
