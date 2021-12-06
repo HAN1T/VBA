@@ -10,7 +10,7 @@
 ### [Forward](#forward-1)
 
 # Introduction
-The purpose of [Fund_Monthly_Reconciliation_Macro.xlsm](https://github.com/Vanipreet/Automated_Fund_Monthly_Reconciliation/blob/master/Fund_Monthly_Reconciliation/Fund_Monthly_Reconciliation_Macro.xlsm) is to create an automated process for the execution of Portfolio's / Fund's Monthly Reconciliation. There are multiple assumptions and pre-requisites that has been kept in place for the smooth execution of this macro.
+The purpose of [Fund_Monthly_Reconciliation_Macro.xlsm](https://github.com/HAN1T/VBA/blob/main/Automated_Fund_Monthly_Reconciliation/Fund_Monthly_Reconciliation/Fund_Monthly_Reconciliation_Macro.xlsm) is to create an automated process for the execution of Portfolio's / Fund's Monthly Reconciliation. There are multiple assumptions and pre-requisites that has been kept in place for the smooth execution of this macro.
 
 # Assumptions
 This macro is built with few assumptions in mind as listed below
@@ -22,12 +22,12 @@ This macro is built with few assumptions in mind as listed below
 
 
 # Automated_Fund_Monthly_Reconciliation_processflow diagram
-![alt text](https://github.com/Vanipreet/Automated_Fund_Monthly_Reconciliation/blob/master/Monthly%20Reconciliation%20Process.PNG)
+![alt text](https://github.com/HAN1T/VBA/blob/main/Automated_Fund_Monthly_Reconciliation/Monthly%20Reconciliation%20Process.PNG)
 
 # Steps to run the macro
 
-1. Download the zip file [Fund_Monthly_Reconciliation](https://github.com/Vanipreet/Automated_Fund_Monthly_Reconciliation/archive/master.zip) onto your preferred location and unzip the file there
-2. Open Fund_Monthly_Reconciliation_Macro.xlsm workbook
+1. Download the zip file [VBA](https://github.com/HAN1T/VBA/archive/refs/heads/main.zip) onto your preferred location and unzip the file there
+2. Open "Automated_Fund_Monthly_Reconciliation" folder. Under the folder open sub-folder "Fund_Monthly_Reconciliation" and file Fund_Monthly_Reconciliation_Macro.xlsm workbook
 3. Right click on macro button "Monthly Reconciliation"
 4. From the drop down options click on "Assign Macro"
 5. Select "Monthly_Recon" and click on "Edit" button
