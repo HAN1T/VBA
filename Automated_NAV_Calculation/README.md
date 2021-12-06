@@ -9,7 +9,7 @@
 ### [Disclaimer](#Disclaimer-1)
 
 # Introduction
-The purpose of [NAV Calculation.xlsm](https://github.com/HAN1T/Automated_NAV_Calculation/blob/main/NAV%20Calculation.xlsm) is to create an automated process for the execution of periodic NAV calculation of a fund. There are multiple assumptions and pre-requisites that has been kept in place for the smooth execution of this macro.
+The purpose of [NAV Calculation.xlsm](https://github.com/HAN1T/VBA/blob/main/Automated_NAV_Calculation/NAV%20Calculation.xlsm) is to create an automated process for the execution of periodic NAV calculation of a fund. There are multiple assumptions and pre-requisites that has been kept in place for the smooth execution of this macro.
 
 # Assumptions
 This macro is built with few assumptions in mind as listed below
@@ -20,7 +20,7 @@ This macro is built with few assumptions in mind as listed below
 4. Macro expects static input data. However with appropriate mapping, database can be also accurately utilized
 
 # Automated_Fund_NAV_Calculation_processflow diagram
-![alt text](https://github.com/HAN1T/Automated_NAV_Calculation/blob/main/Calculation%20Files/Automated%20NAV%20Calculation%20process.png)
+![alt text](https://github.com/HAN1T/VBA/blob/main/Automated_NAV_Calculation/Calculation%20Files/Automated%20NAV%20Calculation%20process.png)
 
 # Steps to run the macro
 
