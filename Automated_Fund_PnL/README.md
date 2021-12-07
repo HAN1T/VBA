@@ -8,7 +8,7 @@
 ### [Forward](#forward-1)
 
 # Introduction
-The purpose of [Portfolio_P&L.xlsm](https://github.com/Vanipreet/Automated_Fund_Portfolio_PnL/blob/master/Portfolio%20P%26L/Portfolio_P%26L.xlsm) is to create an automated process for the execution of Portfolio's / Fund's profit and loss analysis. There are multiple assumptions and pre-requisites that has been kept in place for the smooth execution of this macro.
+The purpose of [Portfolio_P&L.xlsm](https://github.com/HAN1T/VBA/blob/main/Automated_Fund_PnL/Portfolio%20P%26L/Portfolio_P%26L.xlsm) is to create an automated process for the execution of Portfolio's / Fund's profit and loss analysis. There are multiple assumptions and pre-requisites that has been kept in place for the smooth execution of this macro.
 
 # Assumptions
 This macro is built with few assumptions in mind as listed below
@@ -21,11 +21,11 @@ This macro is built with few assumptions in mind as listed below
 
 
 # Automated_Fund_Portfolio_PnL processflow diagram
-![alt text](https://github.com/Vanipreet/Automated_Fund_Portfolio_PnL/blob/master/ProcessFlow%20Diagram.png)
+![alt text](https://github.com/HAN1T/VBA/blob/main/Automated_Fund_PnL/Portfolio%20P%26L/Process_Automated_PnL.png)
 
 # Steps to run the macro
 
-1. Download the zip file [Portfolio P&L](https://github.com/Vanipreet/Automated_Fund_Portfolio_PnL/tree/master/Portfolio%20P%26L) onto your preferred location and unzip the file there
+1. Download the zip file [VBA](https://github.com/HAN1T/VBA/archive/refs/heads/main.zip) onto your preferred location and unzip the file there. Open "Automated_Fund_PnL" folder. Under the folder open sub-folder "Portfolio P&L"
 2. Open "Portfolio_P&L.xlsm" workbook
 3. Right click on macro button "Portfolio_PnL"
 4. From the drop down options click on "Assign Macro"
