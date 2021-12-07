@@ -7,7 +7,7 @@
 ### [Forward](#forward-1)
 
 # Introduction
-The purpose of [Daily_Fund_Pricing.xlsm](https://github.com/Vanipreet/Automated_Fund_Pricing/blob/master/Fund%20Pricing/Daily_Fund_Pricing.xlsm) is to create an automated process for the daily fund pricing. The purpose of fund pricing is to faciliate updated NAV calculation for the fund(s). In real world the prices are obtained from third party prices provider such as Bloomberg, ICE, however to generalise the process it is assumed that the price input files is available as an external input source. There are multiple assumptions and pre-requisites that has been kept in place for the smooth execution of this macro.
+The purpose of [Daily_Fund_Pricing.xlsm](https://github.com/HAN1T/VBA/blob/main/Automated_Fund_Pricing/Fund%20Pricing/Daily_Fund_Pricing.xlsm) is to create an automated process for the daily fund pricing. The purpose of fund pricing is to faciliate updated NAV calculation for the fund(s). In real world the prices are obtained from third party prices provider such as Bloomberg, ICE, however to generalise the process it is assumed that the price input files is available as an external input source. There are multiple assumptions and pre-requisites that has been kept in place for the smooth execution of this macro.
 
 
 # Assumptions
@@ -21,12 +21,12 @@ This macro is built with few assumptions in mind as listed below
 Please note: This macro is a pre-requisite for carring out NAV calculations, hence in real world pricing of fund should be incorporated before NAV calculation is initiated
 
 # Automated_Daily_Fund_Pricing_processflow_diagram
-![alt text](https://github.com/Vanipreet/Automated_Fund_Pricing/blob/master/ProcessFlow%20Diagram%20Fund_Pricing.png)
+![alt text](https://github.com/HAN1T/VBA/blob/main/Automated_Fund_Pricing/ProcessFlow%20Diagram%20Fund_Pricing.png)
 
 
 # Steps to run the macro
 
-1. Download the zip file [Fund Pricing](https://github.com/Vanipreet/Automated_Fund_Pricing/tree/master/Fund%20Pricing) onto your preferred location and unzip the file there
+1. Download the zip file [VBA](https://github.com/HAN1T/VBA/archive/refs/heads/main.zip) onto your preferred location and unzip the file there. Open "Automated_Fund_Pricing" folder. Under the folder open sub-folder "Fund Pricing" 
 2. Open "Daily_Fund_Pricing.xlsm" workbook
 3. Right click on macro button "Run Today's Pricing"
 4. From the drop down options click on "Assign Macro"
