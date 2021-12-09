@@ -1,7 +1,7 @@
 # VBA
 The purpose of this respository is to demonstrate my automation skills utilizing VBA along with showcasing my process mapping, procedure writing skills. 
 
-**All the projects in this respository are my personal projects and in no way related to any of the automation processes delivered by me to my employers. All the projects are still usage and will need bit of mapping, details of the same are provided on individual procedures.**
+**All the projects in this respository are my personal projects and in no way related to any of the automation processes delivered by me to my employers. All the projects are still usable and will need bit of mapping, details of the same are provided on individual procedures.**
 
 For quick access, the list of projects are as below.
 
