@@ -4,6 +4,7 @@
 ### [Assumptions](#assumptions-1)
 ### [Automated_Daily_Fund_Pricing_processflow diagram](#automated_daily_fund_pricing_processflow_diagram)
 ### [Steps to run the macro](#steps-to-run-the-macro-1)
+### [Process Output](#Process_Output)
 ### [Forward](#forward-1)
 
 # Introduction
@@ -37,6 +38,9 @@ Please Note: All the mapping is required only on the Module 1
 8. Redo the Step 7 for "EODPrices_Equities_05082020.xlsx" and "Fund_instrument_05082020.xlsx" as well. 
 9. Click on "Run Today's Pricing" macro button under Control sheet of "Daily_Fund_Pricing.xlsm"
 10. When the macro has completed processing, new file will be created under Updated_Pricing folder
+
+# Process_Output
+![alt text](https://github.com/HAN1T/VBA/blob/main/Automated_Fund_Pricing/Fund%20pricing.png)
 
 
 # Forward
