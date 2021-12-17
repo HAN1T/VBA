@@ -7,6 +7,7 @@
 ### [Steps to run the macro](#steps-to-run-the-macro-1)
 - #### [Happy day scenario](#happy-day-scenario-1)
 - #### [Exceptional condition: Some transactions available on either of the two which is not available on the other sheet](#exceptional-condition-some-transactions-available-on-either-of-the-two-which-is-not-available-on-the-other-sheet-1)
+### [Process_Output](#Process_Output)
 ### [Forward](#forward-1)
 
 # Introduction
@@ -44,6 +45,8 @@ Please Note: All the mapping is required only on the Module 1
 11. Add few new transactions in either the Bank statmenet or broker statement sheets ()
 12. Go through the summary sheet for this new recon sheet
 
+# Process Output
+![alt text](https://github.com/HAN1T/VBA/blob/main/Automated_Fund_Monthly_Reconciliation/Monthly%20Reconciliation.png)
 # Forward
 
 This macro is a starting step for Monthly Reconciliation of fund/ portfolio, utilizing some tweaks this can accurately fulfil Monthly calculation requirement.
