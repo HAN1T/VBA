@@ -45,7 +45,7 @@ Please Note: All the mapping is required only on the Module 1
 11. Add few new transactions in either the Bank statmenet or broker statement sheets ()
 12. Go through the summary sheet for this new recon sheet
 
-# Process Output
+# Process_Output
 ![alt text](https://github.com/HAN1T/VBA/blob/main/Automated_Fund_Monthly_Reconciliation/Monthly%20Reconciliation.png)
 # Forward
 
