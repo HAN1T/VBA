@@ -5,7 +5,7 @@
 ### [Assumptions](#assumptions-1)
 ### [Automated_Fund_NAV_Calculation_processflow diagram](#automated_fund_nav_calculation_processflow-diagram-1)
 ### [Steps to run the macro](#steps-to-run-the-macro-1)
-### [Process Output](#Process_Output-1)
+### [Process Output](#Process_Output)
 ### [Forward](#forward-1)
 ### [Disclaimer](#Disclaimer-1)
 
