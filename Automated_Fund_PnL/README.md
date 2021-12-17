@@ -5,6 +5,7 @@
 ### [Assumptions](#assumptions-1)
 ### [Automated_Fund_Portfolio_PnL processflow diagram](#automated_fund_portfolio_pnl-processflow-diagram-1)
 ### [Steps to run the macro](#steps-to-run-the-macro-1)
+### [Process Output](#Process_Output-1)
 ### [Forward](#forward-1)
 
 # Introduction
@@ -35,6 +36,9 @@ Please Note: All the mapping is required only on the Module 1
 7. For test run, change the file name "Pricing_05082020.xlsx" to current Date, Month and Year in DDMMYYYY format. Save the file and close
 8. Redo the Step 7 for "Transactions_05082020.xlsx" as well. 
 9. Click on "Portfolio_PnL" macro button under Control sheet of "Portfolio_P&L.xlsm"
+
+# Process_Output-1
+![alt text](https://github.com/HAN1T/VBA/blob/main/Automated_Fund_PnL/Portfolio%20PnL.png)
 
 # Forward
 
