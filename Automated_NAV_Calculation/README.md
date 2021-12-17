@@ -5,6 +5,7 @@
 ### [Assumptions](#assumptions-1)
 ### [Automated_Fund_NAV_Calculation_processflow diagram](#automated_fund_nav_calculation_processflow-diagram-1)
 ### [Steps to run the macro](#steps-to-run-the-macro-1)
+### [Process Output](#Process_Output-1)
 ### [Forward](#forward-1)
 ### [Disclaimer](#Disclaimer-1)
 
@@ -36,7 +37,8 @@ This macro is built with few assumptions in mind as listed below
 10. Click on "Portfolio Position", "Fund Pricing" and "Calculate NAV" macro button under Control sheet of "NAV Calculation.xlsm" in this specific order
 11. When the processing is complete on the third macro, message box will pop up advising the processing is complete. Click on "OK"
 12. Calculated NAV file is available under "NAVs" folder with today's date
-
+# Process_Output
+![alt text](https://github.com/HAN1T/VBA/blob/main/Automated_NAV_Calculation/NAV%20Calculation.png)
 # Forward
 
 This macro is a starting step for NAV calculation, utilizing some tweaks this can accurately fulfil NAV calculation requirement.
